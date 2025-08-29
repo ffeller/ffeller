@@ -1,16 +1,20 @@
-## Hi there 👋
+## Quem sou eu?
+Olá :-) <BR>
+Eu me chamo **Flaris Roland Feller** 
+1. Um homem de família 
+1. Apaixonado por tecnologia 
+1. Mestre em Ciência da Computação - BD e Big Data 
+1. MBA em Gerenciamento de Projetos 
+1. Graduado em Ciências da Computação 
+1. Pesquisador na UFSC/INE 
+1. Há 29 anos atuando profissionalmente na área da TI 
+1. Atuação em empresas de Florianópolis 
 
-<!--
-**ffeller/ffeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Áreas:
+* Banco de Dados 
+* Desenvolvimento 
+* DevOps
 
-Here are some ideas to get you started:
+![family.jpg](family.jpg) <BR>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+email: flaris.feller@unicesusc.edu.br
