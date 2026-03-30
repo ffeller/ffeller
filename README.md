@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Experiência:
 * 2026 SEA/SC 
 * 2024 Ilhaservice / ALESC 
@@ -5,3 +6,21 @@ Experiência:
 * 1996 Softplan
 * 1995 Gabarito
 
+=======
+## Hi there 👋
+
+<!--
+**ffeller/ffeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> parent of 0fc1b57 (Merge pull request #1 from ffeller/Introdução)
