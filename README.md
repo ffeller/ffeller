@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Quem sou eu?
 Olá :-) <BR>
 Eu me chamo **Flaris Roland Feller** 
@@ -18,3 +19,12 @@ Eu me chamo **Flaris Roland Feller**
 ![family.jpg](family.jpg) <BR>
 
 email: flaris.feller@unicesusc.edu.br
+=======
+Experiência:
+* 2026 SEA/SC 
+* 2024 Ilhaservice / ALESC 
+* 2019 Digitro
+* 1996 Softplan
+* 1995 Gabarito
+
+>>>>>>> c35b1aa06fe69f16b2a4bbb222309d209c228a55
