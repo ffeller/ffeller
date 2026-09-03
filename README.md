@@ -38,4 +38,15 @@ link: [Google](https://google.com)
 ```python
 print ("Hello World!")
 ```
+
+---
+# Habilidades
+| Habilidade  | Nível         |
+|-------------|---------------|
+| Oracle      | Avançado      |
+| Github      | Intermediário |
+| Node.Js     | Básico        |
+| Hadoop      | Intermediário |
+
 ![Foto principal](niveis.png)
+
